@@ -1,0 +1,447 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\ProjectSourceCode\\Mongodb.NetCore\\Mongodb.NetCore.WebApi\\Mongodb.NetCore.WebApi.csproj": {}
+  },
+  "projects": {
+    "E:\\ProjectSourceCode\\Mongodb.NetCore\\Mongodb.NetCore.Business\\Mongodb.NetCore.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\ProjectSourceCode\\Mongodb.NetCore\\Mongodb.NetCore.Business\\Mongodb.NetCore.Business.csproj",
+        "projectName": "Mongodb.NetCore.Business",
+        "projectPath": "E:\\ProjectSourceCode\\Mongodb.NetCore\\Mongodb.NetCore.Business\\Mongodb.NetCore.Business.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "E:\\ProjectSourceCode\\Mongodb.NetCore\\Mongodb.NetCore.Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://nuget.cdn.azure.cn/v3/index.json": {},
+          "https://www.nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "E:\\ProjectSourceCode\\Mongodb.NetCore\\Mongodb.NetCore.Interface\\Mongodb.NetCore.Interface.csproj": {
+                "projectPath": "E:\\ProjectSourceCode\\Mongodb.NetCore\\Mongodb.NetCore.Interface\\Mongodb.NetCore.Interface.csproj"
+              },
+              "E:\\ProjectSourceCode\\Mongodb.NetCore\\Mongodb.NetCore.Service\\Mongodb.NetCore.Service.csproj": {
+                "projectPath": "E:\\ProjectSourceCode\\Mongodb.NetCore\\Mongodb.NetCore.Service\\Mongodb.NetCore.Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\ProjectSourceCode\\Mongodb.NetCore\\Mongodb.NetCore.Common\\Mongodb.NetCore.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\ProjectSourceCode\\Mongodb.NetCore\\Mongodb.NetCore.Common\\Mongodb.NetCore.Common.csproj",
+        "projectName": "Mongodb.NetCore.Common",
+        "projectPath": "E:\\ProjectSourceCode\\Mongodb.NetCore\\Mongodb.NetCore.Common\\Mongodb.NetCore.Common.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "E:\\ProjectSourceCode\\Mongodb.NetCore\\Mongodb.NetCore.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://nuget.cdn.azure.cn/v3/index.json": {},
+          "https://www.nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+              "target": "Package",
+              "version": "[5.0.8, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\ProjectSourceCode\\Mongodb.NetCore\\Mongodb.NetCore.Interface\\Mongodb.NetCore.Interface.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\ProjectSourceCode\\Mongodb.NetCore\\Mongodb.NetCore.Interface\\Mongodb.NetCore.Interface.csproj",
+        "projectName": "Mongodb.NetCore.Interface",
+        "projectPath": "E:\\ProjectSourceCode\\Mongodb.NetCore\\Mongodb.NetCore.Interface\\Mongodb.NetCore.Interface.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "E:\\ProjectSourceCode\\Mongodb.NetCore\\Mongodb.NetCore.Interface\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://nuget.cdn.azure.cn/v3/index.json": {},
+          "https://www.nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "E:\\ProjectSourceCode\\Mongodb.NetCore\\Mongodb.NetCore.Models\\Mongodb.NetCore.Models.csproj": {
+                "projectPath": "E:\\ProjectSourceCode\\Mongodb.NetCore\\Mongodb.NetCore.Models\\Mongodb.NetCore.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\ProjectSourceCode\\Mongodb.NetCore\\Mongodb.NetCore.Models\\Mongodb.NetCore.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\ProjectSourceCode\\Mongodb.NetCore\\Mongodb.NetCore.Models\\Mongodb.NetCore.Models.csproj",
+        "projectName": "Mongodb.NetCore.Models",
+        "projectPath": "E:\\ProjectSourceCode\\Mongodb.NetCore\\Mongodb.NetCore.Models\\Mongodb.NetCore.Models.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "E:\\ProjectSourceCode\\Mongodb.NetCore\\Mongodb.NetCore.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://nuget.cdn.azure.cn/v3/index.json": {},
+          "https://www.nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.13.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\ProjectSourceCode\\Mongodb.NetCore\\Mongodb.NetCore.Service\\Mongodb.NetCore.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\ProjectSourceCode\\Mongodb.NetCore\\Mongodb.NetCore.Service\\Mongodb.NetCore.Service.csproj",
+        "projectName": "Mongodb.NetCore.Service",
+        "projectPath": "E:\\ProjectSourceCode\\Mongodb.NetCore\\Mongodb.NetCore.Service\\Mongodb.NetCore.Service.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "E:\\ProjectSourceCode\\Mongodb.NetCore\\Mongodb.NetCore.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://nuget.cdn.azure.cn/v3/index.json": {},
+          "https://www.nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "E:\\ProjectSourceCode\\Mongodb.NetCore\\Mongodb.NetCore.Common\\Mongodb.NetCore.Common.csproj": {
+                "projectPath": "E:\\ProjectSourceCode\\Mongodb.NetCore\\Mongodb.NetCore.Common\\Mongodb.NetCore.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.13.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\ProjectSourceCode\\Mongodb.NetCore\\Mongodb.NetCore.WebApi\\Mongodb.NetCore.WebApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\ProjectSourceCode\\Mongodb.NetCore\\Mongodb.NetCore.WebApi\\Mongodb.NetCore.WebApi.csproj",
+        "projectName": "Mongodb.NetCore.WebApi",
+        "projectPath": "E:\\ProjectSourceCode\\Mongodb.NetCore\\Mongodb.NetCore.WebApi\\Mongodb.NetCore.WebApi.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "E:\\ProjectSourceCode\\Mongodb.NetCore\\Mongodb.NetCore.WebApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://nuget.cdn.azure.cn/v3/index.json": {},
+          "https://www.nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "E:\\ProjectSourceCode\\Mongodb.NetCore\\Mongodb.NetCore.Business\\Mongodb.NetCore.Business.csproj": {
+                "projectPath": "E:\\ProjectSourceCode\\Mongodb.NetCore\\Mongodb.NetCore.Business\\Mongodb.NetCore.Business.csproj"
+              },
+              "E:\\ProjectSourceCode\\Mongodb.NetCore\\Mongodb.NetCore.Common\\Mongodb.NetCore.Common.csproj": {
+                "projectPath": "E:\\ProjectSourceCode\\Mongodb.NetCore\\Mongodb.NetCore.Common\\Mongodb.NetCore.Common.csproj"
+              },
+              "E:\\ProjectSourceCode\\Mongodb.NetCore\\Mongodb.NetCore.Interface\\Mongodb.NetCore.Interface.csproj": {
+                "projectPath": "E:\\ProjectSourceCode\\Mongodb.NetCore\\Mongodb.NetCore.Interface\\Mongodb.NetCore.Interface.csproj"
+              },
+              "E:\\ProjectSourceCode\\Mongodb.NetCore\\Mongodb.NetCore.Service\\Mongodb.NetCore.Service.csproj": {
+                "projectPath": "E:\\ProjectSourceCode\\Mongodb.NetCore\\Mongodb.NetCore.Service\\Mongodb.NetCore.Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.1.1, )"
+            },
+            "Autofac": {
+              "target": "Package",
+              "version": "[6.2.0, )"
+            },
+            "Autofac.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.1.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+              "target": "Package",
+              "version": "[5.0.8, )"
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.13.1, )"
+            },
+            "MongoDB.Driver.Core": {
+              "target": "Package",
+              "version": "[2.13.1, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.1.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

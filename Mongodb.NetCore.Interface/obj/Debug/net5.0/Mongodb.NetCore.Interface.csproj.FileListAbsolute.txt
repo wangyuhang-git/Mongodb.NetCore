@@ -1,0 +1,15 @@
+E:\ProjectSourceCode\Mongodb.NetCore\Mongodb.NetCore.Interface\obj\Debug\net5.0\Mongodb.NetCore.Interface.csproj.AssemblyReference.cache
+E:\ProjectSourceCode\Mongodb.NetCore\Mongodb.NetCore.Interface\obj\Debug\net5.0\Mongodb.NetCore.Interface.GeneratedMSBuildEditorConfig.editorconfig
+E:\ProjectSourceCode\Mongodb.NetCore\Mongodb.NetCore.Interface\obj\Debug\net5.0\Mongodb.NetCore.Interface.AssemblyInfoInputs.cache
+E:\ProjectSourceCode\Mongodb.NetCore\Mongodb.NetCore.Interface\obj\Debug\net5.0\Mongodb.NetCore.Interface.AssemblyInfo.cs
+E:\ProjectSourceCode\Mongodb.NetCore\Mongodb.NetCore.Interface\obj\Debug\net5.0\Mongodb.NetCore.Interface.csproj.CoreCompileInputs.cache
+E:\ProjectSourceCode\Mongodb.NetCore\Mongodb.NetCore.Interface\bin\Debug\net5.0\Mongodb.NetCore.Interface.deps.json
+E:\ProjectSourceCode\Mongodb.NetCore\Mongodb.NetCore.Interface\bin\Debug\net5.0\Mongodb.NetCore.Interface.dll
+E:\ProjectSourceCode\Mongodb.NetCore\Mongodb.NetCore.Interface\bin\Debug\net5.0\ref\Mongodb.NetCore.Interface.dll
+E:\ProjectSourceCode\Mongodb.NetCore\Mongodb.NetCore.Interface\bin\Debug\net5.0\Mongodb.NetCore.Interface.pdb
+E:\ProjectSourceCode\Mongodb.NetCore\Mongodb.NetCore.Interface\bin\Debug\net5.0\Mongodb.NetCore.Models.dll
+E:\ProjectSourceCode\Mongodb.NetCore\Mongodb.NetCore.Interface\bin\Debug\net5.0\Mongodb.NetCore.Models.pdb
+E:\ProjectSourceCode\Mongodb.NetCore\Mongodb.NetCore.Interface\obj\Debug\net5.0\Mongodb.NetCore.Interface.csproj.CopyComplete
+E:\ProjectSourceCode\Mongodb.NetCore\Mongodb.NetCore.Interface\obj\Debug\net5.0\Mongodb.NetCore.Interface.dll
+E:\ProjectSourceCode\Mongodb.NetCore\Mongodb.NetCore.Interface\obj\Debug\net5.0\ref\Mongodb.NetCore.Interface.dll
+E:\ProjectSourceCode\Mongodb.NetCore\Mongodb.NetCore.Interface\obj\Debug\net5.0\Mongodb.NetCore.Interface.pdb

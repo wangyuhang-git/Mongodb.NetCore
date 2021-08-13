@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mongodb.NetCore", "Mongodb.NetCore\Mongodb.NetCore.csproj", "{CE3A54D0-25A2-4B1E-8169-B3056861F616}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mongodb.NetCore.WebApi", "Mongodb.NetCore.WebApi\Mongodb.NetCore.WebApi.csproj", "{F93E180B-0887-4E3E-8AB1-27FAEE172C17}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mongodb.NetCore.Common", "Mongodb.NetCore.Common\Mongodb.NetCore.Common.csproj", "{12DFC834-D652-45F1-A58F-B8042D34B045}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mongodb.NetCore.Service", "Mongodb.NetCore.Service\Mongodb.NetCore.Service.csproj", "{30CDEE33-3442-460D-91A5-49D2D947FF27}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mongodb.NetCore.Interface", "Mongodb.NetCore.Interface\Mongodb.NetCore.Interface.csproj", "{4C8495FD-2F91-4617-9EC1-0587B9ADADF6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mongodb.NetCore.Business", "Mongodb.NetCore.Business\Mongodb.NetCore.Business.csproj", "{85AC2CA4-DC16-4AC0-BCDD-2E7EBCD8C186}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mongodb.NetCore.Models", "Mongodb.NetCore.Models\Mongodb.NetCore.Models.csproj", "{51AFE20A-1E13-4CDC-A383-6D635F410A24}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE3A54D0-25A2-4B1E-8169-B3056861F616}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE3A54D0-25A2-4B1E-8169-B3056861F616}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE3A54D0-25A2-4B1E-8169-B3056861F616}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE3A54D0-25A2-4B1E-8169-B3056861F616}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F93E180B-0887-4E3E-8AB1-27FAEE172C17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F93E180B-0887-4E3E-8AB1-27FAEE172C17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F93E180B-0887-4E3E-8AB1-27FAEE172C17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F93E180B-0887-4E3E-8AB1-27FAEE172C17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12DFC834-D652-45F1-A58F-B8042D34B045}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12DFC834-D652-45F1-A58F-B8042D34B045}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12DFC834-D652-45F1-A58F-B8042D34B045}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12DFC834-D652-45F1-A58F-B8042D34B045}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30CDEE33-3442-460D-91A5-49D2D947FF27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30CDEE33-3442-460D-91A5-49D2D947FF27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30CDEE33-3442-460D-91A5-49D2D947FF27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30CDEE33-3442-460D-91A5-49D2D947FF27}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C8495FD-2F91-4617-9EC1-0587B9ADADF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C8495FD-2F91-4617-9EC1-0587B9ADADF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C8495FD-2F91-4617-9EC1-0587B9ADADF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C8495FD-2F91-4617-9EC1-0587B9ADADF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{85AC2CA4-DC16-4AC0-BCDD-2E7EBCD8C186}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85AC2CA4-DC16-4AC0-BCDD-2E7EBCD8C186}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85AC2CA4-DC16-4AC0-BCDD-2E7EBCD8C186}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85AC2CA4-DC16-4AC0-BCDD-2E7EBCD8C186}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51AFE20A-1E13-4CDC-A383-6D635F410A24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51AFE20A-1E13-4CDC-A383-6D635F410A24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51AFE20A-1E13-4CDC-A383-6D635F410A24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51AFE20A-1E13-4CDC-A383-6D635F410A24}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {215CD8E2-E2AF-4D9D-9274-79831307CC03}
+	EndGlobalSection
+EndGlobal

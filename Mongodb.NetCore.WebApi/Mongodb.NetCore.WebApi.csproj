@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Autofac" Version="6.2.0" />
+    <PackageReference Include="Autofac.Extensions.DependencyInjection" Version="7.1.0" />
+    <PackageReference Include="AutoMapper" Version="10.1.1" />
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="8.1.1" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.NewtonsoftJson" Version="5.0.8" />
+    <PackageReference Include="MongoDB.Driver" Version="2.13.1" />
+    <PackageReference Include="MongoDB.Driver.Core" Version="2.13.1" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.1.5" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Mongodb.NetCore.Business\Mongodb.NetCore.Business.csproj" />
+    <ProjectReference Include="..\Mongodb.NetCore.Common\Mongodb.NetCore.Common.csproj" />
+    <ProjectReference Include="..\Mongodb.NetCore.Interface\Mongodb.NetCore.Interface.csproj" />
+    <ProjectReference Include="..\Mongodb.NetCore.Service\Mongodb.NetCore.Service.csproj" />
+  </ItemGroup>
+
+</Project>

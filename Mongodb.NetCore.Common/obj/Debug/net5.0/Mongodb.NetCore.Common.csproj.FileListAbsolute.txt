@@ -1,0 +1,11 @@
+E:\ProjectSourceCode\Mongodb.NetCore\Mongodb.NetCore.Common\bin\Debug\net5.0\Mongodb.NetCore.Common.deps.json
+E:\ProjectSourceCode\Mongodb.NetCore\Mongodb.NetCore.Common\bin\Debug\net5.0\Mongodb.NetCore.Common.dll
+E:\ProjectSourceCode\Mongodb.NetCore\Mongodb.NetCore.Common\bin\Debug\net5.0\ref\Mongodb.NetCore.Common.dll
+E:\ProjectSourceCode\Mongodb.NetCore\Mongodb.NetCore.Common\bin\Debug\net5.0\Mongodb.NetCore.Common.pdb
+E:\ProjectSourceCode\Mongodb.NetCore\Mongodb.NetCore.Common\obj\Debug\net5.0\Mongodb.NetCore.Common.GeneratedMSBuildEditorConfig.editorconfig
+E:\ProjectSourceCode\Mongodb.NetCore\Mongodb.NetCore.Common\obj\Debug\net5.0\Mongodb.NetCore.Common.AssemblyInfoInputs.cache
+E:\ProjectSourceCode\Mongodb.NetCore\Mongodb.NetCore.Common\obj\Debug\net5.0\Mongodb.NetCore.Common.AssemblyInfo.cs
+E:\ProjectSourceCode\Mongodb.NetCore\Mongodb.NetCore.Common\obj\Debug\net5.0\Mongodb.NetCore.Common.csproj.CoreCompileInputs.cache
+E:\ProjectSourceCode\Mongodb.NetCore\Mongodb.NetCore.Common\obj\Debug\net5.0\Mongodb.NetCore.Common.dll
+E:\ProjectSourceCode\Mongodb.NetCore\Mongodb.NetCore.Common\obj\Debug\net5.0\ref\Mongodb.NetCore.Common.dll
+E:\ProjectSourceCode\Mongodb.NetCore\Mongodb.NetCore.Common\obj\Debug\net5.0\Mongodb.NetCore.Common.pdb
